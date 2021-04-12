@@ -11,4 +11,4 @@ The Car Clicker application is a variant of the well-known app cat clicker. Some
 
 ![carClicker app](img/carClicker.gif)
 
-_used in a article for @freeCodeCamp to explain the MVC architecture pattern_
+_used in an article for @freeCodeCamp to explain the MVC architecture pattern_
