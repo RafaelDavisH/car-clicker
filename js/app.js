@@ -72,8 +72,6 @@ const carView = {
         this.carNameElem = document.getElementById('car-name');
         this.carImageElem = document.getElementById('car-img');
         this.countElem = document.getElementById('car-count');
-        this.elCount = document.getElementById('elCount');
-
 
         // on click increment the current car's counter
         this.carImageElem.addEventListener('click', this.clickHandler);
