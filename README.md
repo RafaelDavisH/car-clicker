@@ -1,6 +1,6 @@
 # Car Clicker
 
-This is a simple application built implementing the MVC architecture pattern.
+This is a simple application built to implement the MVC architecture pattern.
 
 The Car Clicker application is a variant of the well-known app cat clicker. Some significant differences in the Car Clicker app are:
 
