@@ -11,4 +11,6 @@ The Car Clicker application is a variant of the well-known app cat clicker. Some
 
 ![carClicker app](img/carClicker.gif)
 
+The full license terms may be viewed in the [LICENSE](LICENSE.md)
+
 _used in an article for @freeCodeCamp to explain the MVC architecture pattern_
